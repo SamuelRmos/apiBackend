@@ -1,0 +1,18 @@
+{
+  "name": "back_end_node",
+  "version": "1.0.0",
+  "description": "This project of the backend app Neox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel Ramos",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "mongodb": "^3.3.2",
+    "nodemon": "^1.19.2"
+  }
+}
